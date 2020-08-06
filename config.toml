@@ -1,5 +1,5 @@
-baseURL = "https://axway-open-docs.netlify.com/"
-title = "Axway-Open-Docs"
+baseURL = "https://apibuilder-open-docs.netlify.com/"
+title = "API Builder-Open-Docs"
 
 enableRobotsTXT = true
 
