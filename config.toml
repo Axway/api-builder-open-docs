@@ -1,4 +1,4 @@
-baseURL = "https://apibuilder-open-docs.netlify.com/"
+baseURL = "https://apibuilder-open-docs.netlify.app/"
 title = "API Builder-Open-Docs"
 
 enableRobotsTXT = true
