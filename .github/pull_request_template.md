@@ -1,4 +1,4 @@
-Thank you for your contribution to the Axway-Open-Docs repo.
+Thank you for your contribution to the API Builder-Open-Docs repo.
 
 ## Describe the changes
 
@@ -38,7 +38,7 @@ Before approving this PR, please make sure it:
 
 _This section is to be filled out by project maintainers only._
 
-Before merging this PR, please make sure:
+NEED TO UPDATE FOR API BUILDER TEAM SPECIFICS: Before merging this PR, please make sure:
 
 * [ ] You have applied a size label (unless this work is tracked in the ReadMeFirst JIRA project)
 * [ ] You have applied a production label if this needs a manual push to Zoomin
@@ -46,4 +46,4 @@ Before merging this PR, please make sure:
 * [ ] You have added it to the correct Sprint milestone
 * [ ] You have appended a `fixes` line to this description if this PR fixes a specific GitHub issue
 * [ ] You have added a new collection to Netlify CMS config (static/admin/config.js) if required (new doc sections)
-* [ ] You have updated the Zoomin classification file if required (new AMPC topics)
+* [ ] You have updated the Zoomin classification file if required (new APIB topics)
