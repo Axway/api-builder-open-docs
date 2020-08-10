@@ -1,6 +1,6 @@
 ---
-title: "Documentation"
-linkTitle: "Documentation"
+title: "API Builder Documentation"
+linkTitle: "API Builder Documentation"
 weight: 20
 menu:
   main:
